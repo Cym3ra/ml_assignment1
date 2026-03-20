@@ -1,6 +1,6 @@
 ## Individuell uppgift - Machine Learning - California Housing
 Analysera data från datasetet housing.csv.
-Resultatet presenteras i Jupyter Notebooken housing_analysis.ipynb
+Resultatet presenteras i Jupyter Notebooken ML_Uppgift1_Carina_Karlsson.ipynb
 
 ### Miljö
 
